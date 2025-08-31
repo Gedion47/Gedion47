@@ -68,7 +68,7 @@
   <a href="https://twitter.com/shadow47_sfa" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="https://discordapp.com/users/Gedion47#0623" target="_blank">
+  <a href="https://discordapp.com/users/1089514591421210696" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
 </p>
