@@ -58,15 +58,18 @@
 
 <!-- Connect -->
 ## 🤝 Connect with Me  
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a> -->
   <a href="mailto:gedionalemu279@example.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://twitter.com/shadow47_sfa" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="https://discordapp.com/users/Gedion47#0623" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
 </p>
 
